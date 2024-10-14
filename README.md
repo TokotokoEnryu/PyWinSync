@@ -1,0 +1,2 @@
+# PyWinSync
+PythonのPyWinAutoとFletを使って複数のウィンドウを同時操作するプログラム
